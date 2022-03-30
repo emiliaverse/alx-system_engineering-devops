@@ -5,3 +5,4 @@ A scipt that displays current directory contents in a long format.
 A scipt that displays current directory contents, including hidden files in long format.
 A script displays current directory contents in long format with user and group IDs displayed numerically.
 A script that creates a directory inside a directory.
+A script that moves a file from a directory to another directory.
