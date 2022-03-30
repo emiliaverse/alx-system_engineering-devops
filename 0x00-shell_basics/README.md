@@ -12,3 +12,4 @@ A script that changes the working directory to the previous one.
 A script that lists all files in the current and parent directory in long format.
 A script that prints the type of the file named iamafile 
 A script that creates a symbolic link 
+A script that copies all the HTML files from the current working directory 
