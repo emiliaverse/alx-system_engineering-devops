@@ -9,3 +9,4 @@ A script that moves a file from a directory to another directory.
 Delete the betty file
 A script that deletes the first directory
 A script that changes the working directory to the previous one.
+A script that lists all files in the current and parent directory in long format.
