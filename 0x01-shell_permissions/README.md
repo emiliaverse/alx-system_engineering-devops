@@ -11,3 +11,4 @@ A script that sets the mode of the file hello
 A script that sets the mode of the file hello the same as olleh’s mode.
 A script that adds execute permission to all subdirectories 
 A script that creates a directory with permission 
+A script that changes the group owner
