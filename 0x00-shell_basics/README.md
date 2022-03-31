@@ -15,3 +15,4 @@ A script that creates a symbolic link
 A script that copies all the HTML files from the current working directory 
 A script that moves all files beginning with an uppercase letter to the directory
 a script that deletes all files in the current working directory that end with the character ~
+A script that creates the directories in the working directory
