@@ -9,3 +9,4 @@ A script that adds execution to all
 A script that sets the all permission to other users
 A script that sets the mode of the file hello
 A script that sets the mode of the file hello the same as olleh’s mode.
+A script that adds execute permission to all subdirectories 
