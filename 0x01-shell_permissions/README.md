@@ -13,3 +13,4 @@ A script that adds execute permission to all subdirectories
 A script that creates a directory with permission 
 A script that changes the group owner
 A script that changes the owner and group owner
+A script that changes the owner and the group owner of _hello to vincent and staff respectively
